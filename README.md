@@ -29,14 +29,12 @@ const { createStore } = Redux
 const sotre = createStore(counter)
 ```
 
-<hr>
 ### 리덕스 규칙
 
 1. 스토어는 단한개
 2. state는 읽기 전용
 3. 변화는 순수 함수로 구성
 
-<hr>
 ### TODO
 1. ~~리덕스 정리하기~~
 2. 반복학습
