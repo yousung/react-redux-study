@@ -36,6 +36,6 @@ const sotre = createStore(counter)
 3. 변화는 순수 함수로 구성
 
 ### TODO
-1. ~~리덕스 정리하기~~
-2. 반복학습
-3. 리덕스 간편 활용하기 정리 (immutable.js, ducks 구조,  redux-actions)
+[x] ~~리덕스 정리하기~~
+[ ] 반복학습
+[ ] 리덕스 간편 활용하기 정리 (immutable.js, ducks 구조,  redux-actions)
