@@ -38,6 +38,6 @@ const sotre = createStore(counter)
 
 <hr>
 ### TODO
-1. [X] 리덕스 정리하기
-2. [ ] 반복학습
-3. [ ] 리덕스 간편 활용하기 정리 (immutable.js, ducks 구조,  redux-actions)
+1. ~~리덕스 정리하기~~
+2. 반복학습
+3. 리덕스 간편 활용하기 정리 (immutable.js, ducks 구조,  redux-actions)
